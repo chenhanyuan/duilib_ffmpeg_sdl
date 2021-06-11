@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 整体布局结构 -->
+<Window size="1280,720" caption="0,0,0,32" sizebox="4,4,4,4">
+    <!-- <VerticalLayout bkcolor="FF3C4852"> -->
+    <VerticalLayout bkcolor="FF3C4852" vscrollbar="false" hscrollbar="false">
+        <HorizontalLayout height="32" bkcolor="FF3C4852">
+            <Include source="Caption.xml" />
+        </HorizontalLayout>
+        <HorizontalLayout>
+            <Player name="player"  visible="true"  />
+        </HorizontalLayout>
+        <HorizontalLayout height="32" bkcolor="FF3C4852">
+            <Include source="Bottom.xml" />
+        </HorizontalLayout>
+    </VerticalLayout>
+</Window>

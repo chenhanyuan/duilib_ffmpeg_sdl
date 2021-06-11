@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 整体布局结构 -->
+<Window height="32">
+    <HorizontalLayout ></HorizontalLayout>
+</Window>

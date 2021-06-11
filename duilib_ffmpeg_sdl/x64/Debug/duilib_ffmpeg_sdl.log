@@ -1,0 +1,8 @@
+﻿  h264Decoder.cpp
+e:\work\duilib\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+e:\project\duilib_ffmpeg_sdl\duilib_ffmpeg_sdl\ffmpeg\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\project\duilib_ffmpeg_sdl\duilib_ffmpeg_sdl\h264decoder.cpp(78): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“HWND”
+e:\project\duilib_ffmpeg_sdl\duilib_ffmpeg_sdl\h264decoder.cpp(78): warning C4313: “sprintf”: 格式字符串中的“%d”与“HWND”类型的参数 1 冲突
+e:\project\duilib_ffmpeg_sdl\duilib_ffmpeg_sdl\h264decoder.cpp(266): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+e:\project\duilib_ffmpeg_sdl\duilib_ffmpeg_sdl\h264decoder.cpp(286): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  duilib_ffmpeg_sdl.vcxproj -> E:\project\duilib_ffmpeg_sdl\x64\Debug\duilib_ffmpeg_sdl.exe
